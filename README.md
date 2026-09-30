@@ -7,6 +7,6 @@ Deep Learning course project, Middle East Technical University (ODTÜ), spring 2
 
 ![Model comparison](figures/benchmark_acc.png)
 
-📄 [Report](project_report.pdf) · 📓 [Notebook](DI_project.ipynb)
+📄 [Report](IEEE_DEEP_LEARNING-2.pdf) · 📓 [Notebook](DI_project.ipynb)
 
 **Stack:** PyTorch · torchvision · NumPy · matplotlib
